@@ -1,0 +1,1 @@
+The Microbial Phenotype Ontology and Database is an effort to bring a well-defined controlled vocabulary to the assignment of properties to various microbes (predominantly Bacteria & Archaea). Aside from a formal ontology of terms, software and human curation of term-specie associations are being developed.
